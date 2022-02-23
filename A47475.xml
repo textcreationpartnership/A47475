@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The King's power in ecclesiastical matters truly stated</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47475</idno>
+            <idno type="STC">Wing K605</idno>
+            <idno type="STC">ESTC R30485</idno>
+            <idno type="EEBO-CITATION">11338715</idno>
+            <idno type="OCLC">ocm 11338715</idno>
+            <idno type="VID">47498</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47475)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47498)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1465:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The King's power in ecclesiastical matters truly stated</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1688?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the Harvard Law School Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Government.</term>
+               <term>Royal supremacy (Church of England)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="TEXT">
+            <pb facs="tcp:47498:1"/>
+            <pb n="1" facs="tcp:47498:1" rendition="simple:additions"/>
+            <head>The King's Power in Eccleſiaſtical Matters truly Stated.</head>
+            <p>HIS preſent Majeſty having erected an High-Commiſſion Court, to enquire of, and make redreſs in Eccleſiaſtical Matters, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> Whether ſuch a Commiſſion, as the Law now ſtands, be good or not?</p>
+            <p>And I hold that the Commiſſion is not good. And to maintain my Opinion herein I ſhall, in the firſt place, briefly conſider what power the Crown of <hi>England</hi> had in Eccleſiaſtical or Spiritual Mat<g ref="char:EOLhyphen"/>ters (for I take them to be ſynonymous Terms) before 17. <hi>Car.</hi> 1. <hi>ca.</hi> 11. And, 2dly. I ſhall particularly conſider that Act of 17. <hi>Car.</hi> 1. <hi>ca.</hi> 11. And, 3dly. I ſhall conſider 13. <hi>Car.</hi> 2. <hi>ca.</hi> 12. And by that time I have fully conſidered theſe Three Acts of Parliament it will plainly appear, That the Crown of <hi>England</hi> hath now no power to erect ſuch a Court.</p>
+            <p>I muſt confeſs and do agree, That by the common Law all Eccleſi<g ref="char:EOLhyphen"/>aſtical Juriſdiction was lodged in the Crown; and the Biſhops, and all ſpiritual Perſons derived their Juriſdiction from thence: And I cannot find, that there were any attempts by the Clergy to diveſt the Crown of it, till <hi>William</hi> the Firſt's time, in whoſe time, and his Succeſſors down to King <hi>John,</hi> the Pope obtained four Points of Juriſdiction, 1ſt. Sending of Legates into <hi>England.</hi> 2dly. Drawing of Appeals to the Court of <hi>Rome.</hi> 3dly. Donation of Biſhopricks and other eccleſiaſtical Bene<g ref="char:EOLhyphen"/>fices. And, 4ly. Exemption of Clerks from the ſecular Power. Which four Points were gained within the ſpace of an Hundred and odd Years; but with all the oppoſition imaginable of the Kings and their People; and the Kingdom never came to be abſolutely inſlaved to the Church of <hi>Rome</hi> till King <hi>John</hi>'s time; and then both King and People were, and ſo con<g ref="char:EOLhyphen"/>tinued to be in a great meaſure in <hi>Henry</hi> 3d's time; and ſo would in all likelihood have continued, had not the Wiſe <hi>Edward</hi> 1ſt. oppoſed the Pope's Uſurpation, and made the Statute of <hi>Mortmain:</hi> But that which chiefly brake the Neck of this, was, That after the Pope and Clergy had endeavoured in <hi>Ed.</hi> 2. his time, and in the beginning of <hi>Ed.</hi> 3. to Uſurp again; <hi>Ed.</hi> 3. did reſiſt the Uſurpation, and made the Statutes of Pro<g ref="char:EOLhyphen"/>viſors, 25. <hi>Ed.</hi> 3. and 27. <hi>Ed.</hi> 3. And <hi>Richard</hi> 2. backed thoſe Acts with 16. <hi>Rich.</hi> 2. <hi>ca.</hi> 5. and kept the Power in the Crown by them Laws; which being interrupted by Queen <hi>Mary,</hi> (a bloody Bigot of the Church of <hi>Rome</hi>) during her Reign, there was an Act made in 1. <hi>Eliz. ca.</hi> 1.
+<note place="margin">
+                  <hi>Keble</hi>'s Stat.</note> which is Intituled, <hi>An Act to reſtore to the Crown the ancient Juriſdiction over the Eſtate, Eccleſiaſtical and Spiritual, and abolliſhing all foreign Powers
+<pb n="2" facs="tcp:47498:2"/>repugnant to the ſame.</hi> From which Title I collect three things, 1ſt. That the Crown had anciently a Juriſdiction over the Eſtate Eccleſiaſtical and Spiritual. 2dly. That that Juriſdiction had for ſome time been at leaſt ſuſpended, and the Crown had not exerciſed it. 3dly, That this Law did not introduce a New Juriſdiction, but reſtored the Old; but with reſtoring the old Juriſdiction to the Crown, gave a power of Dele<g ref="char:EOLhyphen"/>gating the Exerciſe of it. And as a conſequence from the whole, that all Juriſdiction that is Lodged in the Crown, is ſubject nevertheleſs to the Legiſlative power in the Kingdom.</p>
+            <p>I ſhall now conſider, what Power this Act of 1. <hi>Eliz.</hi> 1. declares to have been anciently in the Crown, and that appears from <hi>Sect.</hi> 16, 17, 18. of the ſame Act.</p>
+            <p>Section 16 Aboliſheth all Foreign Authority in Caſes Spiritual and Temporal, in theſe words, <hi>And to the intent that all the Vſurped and Foreign Power and Authority, Spiritual and Temporal may for ever be clearly Extinguiſhed, and never to be uſed or obeyed within this Realm, or any other your Majeſties Do<g ref="char:EOLhyphen"/>minions or Countries;</hi> (2) <hi>may it pleaſe your Highneſs, that it may be further Enacted by the Authority aforeſaid, That no Foreign Prince, Perſon, Prelate, State or Potentate Spiri<g ref="char:EOLhyphen"/>tual or Temporal ſhall at any time after the laſt day of this Seſſion of Parliament, uſe, enjoy, or exerciſe any manner of Power, Iurisdiction, Superiority, Authority, Preheminence or Priviledge Spiritual or Eccleſiaſtical, within this Realm, or within any other your Maieſties Dominions or Countries that now be, or hereafter ſhall be, but from thenceforth the ſame ſhall be clearly Aboliſhed out of this Realm, and all other your Highneſſes Dominions for ever; any Statute, Ordinance, Cuſtom, Conſtitutions or any other matter or cauſe whatſoever to the contrary in any wiſe notwithſtanding.</hi> And after the ſaid Act hath aboliſhed all Foreign Authority, in the very next Section, <hi>Sect.</hi> 17. it annexeth all Eccleſiaſtical Juriſdiction to the Crown in theſe words, <hi>And that alſo it may likewiſe pleaſe your Highneſs, That it may be Eſtabliſhed and Enacted by the Authority afore<g ref="char:EOLhyphen"/>ſaid, That ſuch Iurisdictions, Priviledges, Superiorities and Preheminences, Spiritual and Eccleſiaſtical as by any Spiri<g ref="char:EOLhyphen"/>tual or Eccleſiaſtical Power or Authority hath heretofore been, or may lawfully be exerciſed, or uſed for the Viſitation of the Eccleſiaſtical State and Perſons, and for Reformation, Or<g ref="char:EOLhyphen"/>der and Correction of the ſame, and of all manner of Errors, Hereſies, Schiſms, Abuſes, Offences, Contempts and Enor<g ref="char:EOLhyphen"/>mities ſhall for ever, by Authority of this preſent Parliament, be Vnited and Annexed to the Imperial Crown of this Realm.</hi> From theſe words, That ſuch Juriſdiction, <hi>&amp;c.</hi> as by any Spiritual or
+<pb n="3" facs="tcp:47498:2" rendition="simple:additions"/>Eccleſiaſtical Power or Authority had then-to-fore been Exerciſed or uſed were annexed to the Crown, I obſerve, That the Four things aforeſaid, wherein the Pope had incroached, were all reſtored to the Crown and likewiſe all other Eccleſiaſtical Jurisdiction that had been exerciſed or uſed in this Kingdom, and did thereby become abſolutely veſted in the Crown.</p>
+            <p>Then Section 18. gives a power to the Crown to aſſign Commiſ<g ref="char:EOLhyphen"/>ſioners to Exerciſe this Eccleſiaſtical Jurisdiction in theſe words, <hi>And that your Highneſs, your Heirs and Succeſſors, Kings or Queens of this Realm ſhall have full Power and Authority, by vertue of this Act, by Letters Patents under the Great Seal of</hi> England, <hi>to Aſſign, Name and Authorize when and as often as your Highneſs, your Heirs or Succeſſors ſhall think meet and convenient, and for ſuch and ſo long time as ſhall pleaſe your Highneſs your Heirs or Succeſſors, ſuch perſon or perſons be<g ref="char:EOLhyphen"/>ing Natural born ſubjects to your Highneſs, your Heirs or Succeſſors, as your Majeſty, your Heirs or Succeſſors ſhall think meet to exerciſe, uſe, occupy and execute under your Highneſs, your Heirs and Succeſſors, all manner of Iuris<g ref="char:EOLhyphen"/>dictions, Priviledges and Preheminences in any wiſe touching or concerning any Spiritual or Eccleſiaſtical Iurisdiction with<g ref="char:EOLhyphen"/>in theſe your Realms of</hi> England <hi>and</hi> Ireland, <hi>or any other your Highneſſes Dominions and Countries,</hi> (2) <hi>and to Viſit, Re<g ref="char:EOLhyphen"/>form, Redreſs, Order, Correct and Amend all ſuch Errors, Hereſies, Schiſms, Abuſes, Offences, Contempts and Enorim<g ref="char:EOLhyphen"/>ties whatſoever, which by any manner of Spiritual or Eccleſi<g ref="char:EOLhyphen"/>aſtical Power, Authority or Iurisdiction can or may lawfully be Reformed, Ordered, Redreſſed, Corrected, Reſtrained or Amend<g ref="char:EOLhyphen"/>ed, to the pleaſure of Almighty God, the increaſe of Vertue and the conſervation of the Peace and Vnity of this Realm;</hi> (3) <hi>And that ſuch perſon or perſons ſo to be named, aſſigned, autho<g ref="char:EOLhyphen"/>rized and appointed by your Highneſs, your Heirs or Suc<g ref="char:EOLhyphen"/>ceſſors after the ſaid Letters Patents to him or them made and delivered, as is aforeſaid, ſhall have full Power and Au<g ref="char:EOLhyphen"/>thority by vertue of this Act and of the ſaid Letters Patents under your Highneſs, your Heirs and Succeſſors to exer<g ref="char:EOLhyphen"/>ciſe, uſe and execute all the premiſſes according to the tenor and effect of the ſaid Letters Patents, any matter or cauſe to the contrary in any wiſe notwithſtanding.</hi>
+            </p>
+            <p>So that, I take it, that all manner of Eccleſiaſtical Juriſdiction was in the Crown by the Common Law of <hi>England,</hi> and declared to be ſo by the ſaid Act of 1. <hi>Eliz.</hi> 1. and by that Act a power given to the Crown to aſſign Commiſſioners to Exerciſe this Jurisdiction; which was accordingly done by Queen <hi>Eliz.</hi> and a High-Commiſſion Court was by her Erected; which
+<pb n="4" facs="tcp:47498:3"/>ſate and held Plea of all Cauſes, Spiritual and Eccleſiaſtical during the Reign of Queen <hi>Eliz.</hi> King <hi>James</hi> the firſt, and King <hi>Charles</hi> the firſt, till the 17. year of his Reign.</p>
+            <p>Which leads me to conſider the Statute of 17. <hi>Car.</hi> 1. <hi>ca.</hi> 11. which Act recites the Title of 1. <hi>Eliz. ca.</hi> 1. and <hi>Sect.</hi> 18. of the ſame Act, and recites further, <hi>Section</hi> 2. That <hi>whereas by colour of ſome words in the aforeſaid branch of the ſaid Act, whereby Com<g ref="char:EOLhyphen"/>miſſioners are Authorized to execute their Commiſſion ac<g ref="char:EOLhyphen"/>cording to the tenor and effect of the Kings Letters Pa<g ref="char:EOLhyphen"/>tents, and by Letters Patents grounded thereupon, the ſaid Commiſſioners have to the great and inſufferable Wrong and Oppreſſion of the Kings Subjects, uſed to Fine and Im<g ref="char:EOLhyphen"/>priſon them, and to exerciſe other Authority, not belonging to Eccleſiaſtical Iurisdiction reſtored by that Act, and divers other great Miſchiefs and Inconveniences have alſo enſued to the Kings Subjects by occaſion of the ſaid Branch, and Com<g ref="char:EOLhyphen"/>miſions iſſued thereupon, and the executions thereof: There<g ref="char:EOLhyphen"/>fore for the repreſſing and preventing of the aforeſaid A<g ref="char:EOLhyphen"/>buſes, Miſchiefs and Inconveniences in time to come,</hi> (by Sect. 3. the ſaid Clauſe in the ſaid Act 1. <hi>E.</hi> 1. is Repealed with a <hi>Non ob<g ref="char:EOLhyphen"/>ſtante</hi> to the ſaid Act in theſe words) <hi>Be it Enacted by the Kings moſt excellent Majeſty, and the Lords and Commons in this preſent Parliament Aſſembled, and by the Authority of the ſame, That the aforeſaid Branch, Clauſe Article or Sentence contained in the ſaid Act, and every word, matter and thing contained in that Branch, Clauſe, Article or Sentence ſhall from henceforth be Repealed, Annulled, Re<g ref="char:EOLhyphen"/>voked, Annihilated and utterly made Void for ever; any thing in the ſaid Act to the contrary in any wiſe notwith<g ref="char:EOLhyphen"/>ſtanding.</hi>
+            </p>
+            <p>And in Sect. 5. of the ſame Act it is Enacted, That from and after the Firſt of <hi>Auguſt,</hi> (in the ſaid Act mentioned) all ſuch Commiſſions ſhall be void, in theſe words, <hi>And be it further Enacted, That from and after the ſaid Firſt day of</hi> Auguſt <hi>no new Court ſhall be erected, ordained or appointed within this Realm of</hi> England, <hi>or Dominion of</hi> Wales, <hi>which ſhall or may have the like Pow<g ref="char:EOLhyphen"/>er, Iurisdiction or Authority as the ſaid High-Commiſſion Court now hath or pretendeth to have; but that all and every ſuch Letters Patents, Commiſſions and Grants, made or to be wade, by his Majeſty, his Heirs or Succeſſors; and all Powers and Authorities, Granted or pretended, or mentioned to be Granted thereby, and all Acts Sentences and Decrees to be made, by vertue or colour thereof, ſhall be utterly void and of none effect.</hi>
+            </p>
+            <pb facs="tcp:47498:3"/>
+            <pb facs="tcp:47498:4"/>
+            <pb n="5" facs="tcp:47498:4"/>
+            <p>By which Act then, the power of Exerciſing Eccleſiaſtical Juriſdi<g ref="char:EOLhyphen"/>ction by Commiſſioners, under the Broad-Seal, is ſo taken away, that it provides, no ſuch Power ſhall ever for the future be Delegated by the Crown, to any Perſon or Perſons whatſoever.</p>
+            <p>Let us then in the laſt place conſider, Whether the Act of 13. <hi>Car.</hi> 2. <hi>ca.</hi> 12. hath Reſtored this Power or not?</p>
+            <p>And for this, I take it, that it is not reſtored by the ſaid Act, or any Clauſe in it; and to make this evident, I ſhall Firſt ſet down the whole Act, and then conſider it in the ſeveral Branches of it, that relate to this matter: The Act is Entituled,</p>
+            <p>
+               <hi>An Act for Explanation of a Clauſe contained in an Act of Parliament made in the</hi> 17th. <hi>Year of the Late King</hi> Charles, Entituled, <hi>An Act for Repeal of a Branch of a Statute in</hi> primo Elizabethae, <hi>concerning Commiſſi<g ref="char:EOLhyphen"/>oners for Cauſes Eccleſiaſtical.</hi>
+            </p>
+            <p>The Act it ſelf runs thus, <hi>Whereas in an Act of Parliament made in the Seventeenth Year of the Late King</hi> Charles, Enti<g ref="char:EOLhyphen"/>tuled, An Act for Repeal of a Branch of a Statute <hi>primo Elizabethae,</hi> concerning Commiſſioners for Cauſes Eccleſiaſtical, <hi>it is (amongſt other things) Enacted, That no Arch-biſhop, Biſhop nor Vicar-General, nor any Chancellor, nor Commiſſary of any Arch-biſhop, Biſhop or Vicar-General, nor any Ordinary whatſoever, nor any other Spiritual or Eccleſiaſtical Iudge, Officer or Miniſter of Iuſtice, nor any other perſon or perſons whatſoever, exerciſing Spiritual or Eccleſiaſtical Power, Autho<g ref="char:EOLhyphen"/>rity, or Iurisdiction, by any Grant, Licence or Commiſſion of the Kings Majeſty, his Heirs or Succeſſors, or by any Power or Authority derived from the King, His Heirs or Succeſſors, or otherwiſe, ſhall (from and after the Firſt Day of</hi> Auguſt <hi>which then ſhould be in the Year of our Lord God, One thou<g ref="char:EOLhyphen"/>ſand ſix hundred forty one) Award, Impoſe or Inflict any Pain, Penalty, Fine, Amercement, Impriſonment or other Corporal Puniſhment upon any of the Kings Subjects, for any Contempt, Misdemeanor, Crime, Offence, Matter or Thing whatſoever, belonging to Spiritual or Eccleſiaſtical Cognizance or Iurisdiction;</hi> (2.) <hi>Whereupon ſome doubt hath been made that all ordinary power of Coertion and pro<g ref="char:EOLhyphen"/>ceeding in Cauſes Eccleſiaſtical were taken away, whereby the ordinary courſe of Iuſtice in Cauſes Eccleſiaſtical hath been obſtructed.</hi> (3.) <hi>Be it therefore Declared and Enact<g ref="char:EOLhyphen"/>ed by the Kings moſt Excellent Majeſty, by and with the Advice and Conſent of the Lords and Commons in this preſent Parliament Aſſembled, and by the Authority thereof, That neither the ſaid Act nor any thing therein contained, doth or ſhall take away any ordinary Power or Authority
+<pb n="6" facs="tcp:47498:5"/>from any of the ſaid Arch-biſhops, Biſhops, or any other per<g ref="char:EOLhyphen"/>ſon or perſons, named as aforeſaid, but that they and every of them, exerciſing Eccleſiaſtical Iurisdicton, may Proceed, Determine, Sentence, Execute and Exerciſe all manner of Eccleſiaſtical Iurisdiction, and all Cenſures and Coertions appertaining and belonging to the ſame, before any making of the Act before recited, in all Cauſes and Matters belong<g ref="char:EOLhyphen"/>ing to Eccleſiaſtical Iurisdiction, according to the Kings Ma<g ref="char:EOLhyphen"/>jeſties Eccleſiaſtical Laws uſed and practiſed in this Realm, in as ample Manner and Form as they did and might law<g ref="char:EOLhyphen"/>fully have done before making of the ſaid Act.</hi>
+            </p>
+            <p>Sect. 2. <hi>And be it further Enacted by the Authority aforeſaid, That the afore recited Act of</hi> Decimo ſeptimo Car. <hi>and all the Matters and Clauſes therein contained (excepting what con<g ref="char:EOLhyphen"/>cerns the High-Commiſſion Court, or the new Erection of ſome ſuch like Court by Commiſſion) ſhall be and is there<g ref="char:EOLhyphen"/>by Repealed to all intents and purpoſes whatſoever, any thing, clauſe or ſentence in the ſaid Act contained to the con<g ref="char:EOLhyphen"/>trary notwithſtanding.</hi>
+            </p>
+            <p>Sect. 3. <hi>Provided always, and it is hereby Enacted, That neither this Act nor any thing herein contained ſhall extend, or be conſtrued to Revive, or give Force to the ſaid Branch of the ſaid Statute made in the ſaid Firſt Year of the Reign of the ſaid Late Queen</hi> Elizabeth <hi>mentioned in the ſaid Act of Par<g ref="char:EOLhyphen"/>liament made in the ſaid Seventeenth Year of the Reign of the ſaid King</hi> Charles; <hi>but that the ſaid Branch of the ſaid Sta<g ref="char:EOLhyphen"/>tute made in the ſaid Firſt Year of the Reign of the ſaid Late Queen</hi> Elizabeth <hi>ſhall ſtand and be Repealed in ſuch ſort as if this Act had never been made.</hi>
+            </p>
+            <p>Sect. 4. <hi>Provided alſo, and it is hereby further Enacted, That it ſhall not be lawful for any Arch-biſhop, Biſhop, Vi<g ref="char:EOLhyphen"/>car-General, Chancellor, Commiſſary, or any other Spiri<g ref="char:EOLhyphen"/>tual or Eccleſiaſtical Iudge, Officer or Miniſter, or any o<g ref="char:EOLhyphen"/>ther perſon having or exerciſing Spiritual or Eccleſiaſti<g ref="char:EOLhyphen"/>cal Iurisdiction, to Tender or Adminiſter unto any per<g ref="char:EOLhyphen"/>ſon whatſoever, the Oath uſually called the Oath</hi> Ex Officio, <hi>or any other Oath whereby ſuch perſon to whom the ſame is ten<g ref="char:EOLhyphen"/>dered or Adminiſtred, may be charged or compelled to Con<g ref="char:EOLhyphen"/>feſs or Accuſe, or to purge him or her ſelf of any Criminal matter or thing whereby he or ſhe may be liable to Cenſure or Puniſhment; any thing in this Statute, or any other Law, Cuſtom or Vſage heretofore to the contrary hereof in any wiſe notwithſtanding.</hi>
+            </p>
+            <p>Sect. 5. <hi>Provided always, That this Act or any thing
+<pb n="7" facs="tcp:47498:5"/>therein contained ſhall not extend or be conſtrued to extend to give unto any Arch-biſhop, Biſhop or any other Spiri<g ref="char:EOLhyphen"/>tual or Eccleſiaſtical Iudge, Officer or other perſon or per<g ref="char:EOLhyphen"/>ſons aforeſaid, any Power or Authority to Exerciſe, Exe<g ref="char:EOLhyphen"/>cute, Inflict or Determine any Eccleſiaſtical Iurisdiction, Cenſure, or Coertion, which they might not by Law have done before the Year of our Lord</hi> 1639. (2.) <hi>Nor to Abridge or Dimi<g ref="char:EOLhyphen"/>niſh the Kings Majeſties Supremacy in Eccleſiaſtical Matters and Affairs, nor to confirm the Canons made in the Year</hi> 1640. <hi>nor any of them, nor any other Eccleſiaſtical Laws or Canons not formerly Confirmed, Allowed or Enacted by Parliament, or by the Eſtabliſhed Laws of the Land, as they ſtood in the Year of our Lord</hi> 1639.</p>
+            <p>From the Title of the Act, and the Act it ſelf conſidered, I ga<g ref="char:EOLhyphen"/>ther,</p>
+            <p>
+               <hi>Firſt,</hi> That it is an Explanatory Act of the 17. of <hi>Car.</hi> 1. as to one particular Branch of it, and not introductive of any New Law.</p>
+            <p>
+               <hi>Secondly,</hi> That the occaſion of making it was not from any doubt that did ariſe, Whether the High-Commiſſion Court were taken away? or; Whether the Crown had power to Erect any ſuch-like Court for the future, <hi>but from a doubt that was made that all ordinary Power of Coertion, and proceedings in Cauſes Eccleſiaſti<g ref="char:EOLhyphen"/>cal was taken away whereby Iuſtice in Eccleſiaſtical Matters was obſtructed;</hi> and this doubt did ariſe from a Clauſe in 17. <hi>Car.</hi> 1. <hi>ca.</hi> 11. <hi>Sect.</hi> 4. herein mentioned to be recited in the ſaid Act of 13. <hi>Car.</hi> 2. <hi>ca.</hi> 12.</p>
+            <p>
+               <hi>Thirdly,</hi> That this Statute of 13. <hi>Car.</hi> 2. <hi>ca.</hi> 12. as appears upon the face of it, was made to the intent the ordinary Juriſdiction which the Biſhops and other Eccleſiaſtical perſons had always exerciſed under the Crown, might not be infringed; but not to reſtore to the Crown the power of Delegating the Exerciſe of Eccleſiaſtical Juriſdiction, by Let<g ref="char:EOLhyphen"/>ters Patents to Lay perſons or any others, and as to this nothing can be plainer than the words of the Act it ſelf, <hi>Sect.</hi> 2.</p>
+            <p>
+               <hi>Whereby</hi> 17. Car. 1. <hi>is repealed but takes particular care to except what concerned the High-Commiſſion Court or the new erection of ſome ſuch Court by Commiſſion.</hi>
+            </p>
+            <p>Neither did the Law-makers think this Exception in that Statute of 13. <hi>Car.</hi> 2. <hi>ca.</hi> 12. <hi>Sect.</hi> 2. to be ſufficient, but to put the matter out of all doubt, in the Third Section of the ſame Statute, <hi>It is provided and Enacted, That neither that Act nor any thing therein contained, ſhould extend or be conſtrued to revive, or give force to the Branch of</hi> 1. Eliz. 1. Sect. 18. <hi>but that the ſame Branch ſhould ſtand abſolutely Repealed.</hi> And if ſo then the power of the Crown to delegate the Exerciſe of Eccleſiaſtical Juriſdi<g ref="char:EOLhyphen"/>ction
+<pb n="8" facs="tcp:47498:6" rendition="simple:additions"/>is wholely taken away; for it was veſted in the Crown by 1 <hi>Eliz.</hi> 1. and taken away by 17. <hi>Car.</hi> 1. <hi>ca.</hi> 11. and is in no manner reſtored by 13. <hi>Car.</hi> 2.12. or any other.</p>
+            <p>But there may ariſe an Objection from the words in the Statute of 13. <hi>Car</hi> 2. <hi>ca.</hi> 12. that ſaith, That <hi>that Act ſhall not extend to abridge or diminiſh the Kings Majeſties Supremacy in Eccleſiaſtical Matters and Affairs.</hi> Whence ſome Men would gather; That the ſame Power ſtill remains in the Crown that was in it before 17. <hi>Car.</hi> 1. <hi>ca.</hi> 11.</p>
+            <p>To which Objection I give this Anſwer, That every Law is to be ſo conſtrued, that it may not be <hi>Felo de ſe,</hi> and that, for the honour of the Legiſlators, King, Lords and Commons. Now I would appeal to the Gentlemen themſelves that aſſert this Doctrine, Whether they can ſo conſtrue the Act of 13. <hi>Car.</hi> 2. <hi>ca.</hi> 12. as they pretend to do, without offering violence to their own Reaſon? For when the 1 <hi>Car.</hi> 1. <hi>ca.</hi> 11. had abſolutely Repealed the Branch of 1. <hi>Eliz.</hi> 1. that veſted the power in the Crown of Delegating the Exerciſe of Eccleſiaſtical Juriſ<g ref="char:EOLhyphen"/>diction, and Enacts, That no ſuch Commiſſion ſhall be for the future; and the Act of 13. <hi>Car.</hi> 2. <hi>ca.</hi> 12. Repeals the 17. <hi>Car.</hi> 1. <hi>ca.</hi> 12. except what relates to that particular Branch, there can no more of the Kings Supremacy in Eccleſiaſtical Matters and Affairs, be ſaved by the ſaving in the 13. <hi>Car.</hi> 2. <hi>ca.</hi> 12. but what was left in the Crown by 17. <hi>Car.</hi> 1. <hi>ca.</hi> 11.</p>
+            <p>And now I hope I have ſufficiently evinced, That all the Proceedings before the Eccleſiaſtical Commiſſioners are <hi>CORAM NON J<g ref="char:V">Ʋ</g>DICE;</hi> and therefore have ſufficient Reaſon to believe, That the ſame would never have been ſet on foot by his preſent Majeſty (who had always the Character of <hi>JAMES the Juſt,</hi> and hath Promiſed upon his Royal Word, That he will invade no Mans Property) had he not been Ad<g ref="char:EOLhyphen"/>viſed thereunto by them who are better verſed in the Canons of the Church of <hi>ROME,</hi> than in the Laws that relate to the CROWN and CHURCH of <hi>ENGLAND.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:47498:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
